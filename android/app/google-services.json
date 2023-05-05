@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990812067852",
+    "project_id": "test-pro-e6cda",
+    "storage_bucket": "test-pro-e6cda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990812067852:android:fb273b11b5c943c46c7629",
+        "android_client_info": {
+          "package_name": "com.example.miners"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990812067852-6s58aqq99g70fjit3h1k1p80ksrtc24h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA692e-jrU2o5hqyaJYGp0R31dh3EJ96b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990812067852-6s58aqq99g70fjit3h1k1p80ksrtc24h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
